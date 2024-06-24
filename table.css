@@ -1,0 +1,43 @@
+table,tr,th,td{
+  border: 1px solid #000000;
+  border-collapse:collapse ;
+  margin:auto;
+}
+#header{
+  border:5px;
+  border-color: black;
+  text-align: center;
+  background-color: yellow;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 35px;
+}
+
+#pink{
+  background-color: pink;
+  width:150px;
+}
+.wrap{
+  height: 20px;
+  width:30px;
+  padding: 15px;
+  text-wrap:stable;
+  text-align: center;
+}
+.fcol{
+  background-color: gray;
+  text-wrap:stable;
+  text-align: center;
+  height:20px;
+  text-wrap:stable;
+  padding: 15px;
+}
+.frow{
+  background-color: yellow;
+  height: 20px;
+  padding: 15px;
+  width:30px;
+}
+#fcol{
+  background-color: yellow;
+}
